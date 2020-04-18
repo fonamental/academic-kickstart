@@ -4,13 +4,13 @@ title: Susannah Porter
 
 # Username (this should match the folder name)
 authors:
-- Porter
+- porter
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD Student
+role: Professor
 
 # Organizations/Affiliations
 organizations:
