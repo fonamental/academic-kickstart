@@ -10,7 +10,9 @@ authors:
 superuser: false
 
 # Role/position
-role: [PhD Candidate](dal.ca)
+role: PhD Candidate
+
+Dalhousie
 
 # Organizations/Affiliations
 organizations:
