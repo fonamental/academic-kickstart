@@ -47,7 +47,7 @@ bio: I use microscopes, math, and computation to understand how cells control sh
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/@BEuplotes
+  link: https://twitter.com/BEuplotes
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=oCQbOfMAAAAJ&hl

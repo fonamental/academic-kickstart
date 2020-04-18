@@ -47,7 +47,7 @@ bio: I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of p
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/@varsh_mathur
+  link: https://twitter.com/varsh_mathur
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=LEVTYlYAAAAJ
