@@ -23,18 +23,18 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "DarkGreen"
   gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   # image_position = "center"  # Options include `left`, `center` (default), or `right`.
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
+
   # Text color (true=light or false=dark).
   text_color_light = true
 
@@ -43,9 +43,9 @@ subtitle = ""
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
- # Custom CSS. 
+ # Custom CSS.
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
@@ -73,3 +73,53 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /alert %}}
+
+### Meeting Program (All times Pacific Daylight Time):
+
+Tuesday May 5
+
+8AM-8:15AM
+Welcome from the meeting organizers - and a challenge to future meeting organizers
+
+8:15-8:35
+[Iñaki Ruiz-Trillo] ([Institut de Biologia Evolutiva](https://www.ibe.upf-csic.es) & [Universitat de Barcelona](https://www.ub.edu/web/ub/en/))
+Title: TBA
+
+8:45-9:05
+[Ross Waller] ([University of Cambridge](https://www.cam.ac.uk))
+Title: A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome
+
+9:15-9:25
+[Raúl González-Pech] ([University of South Florida](https://www.usf.edu) & [University of Queensland](https://www.uq.edu.au))
+Title: Can symbiosis drive genome evolution of Symbiodiniaceae?
+
+9:30-9:50
+[Susannah Porter] ([University of California, Santa Barbara](https://www.ucsb.edu))
+Title: Insights into eukaryogenesis from the fossil record
+
+10:00-10:15
+[Varsha Mathur] ([University of British Columbia](https://www.ubc.ca))
+Title: Plastid evolution in deep-branching apicomplexans
+
+
+Wednesday May 6
+
+8:00AM-8:20AM
+[Eva Nowack] ([Heinrich Heine University Düsseldorf](https://www.uni-duesseldorf.de/home/en/home.html))
+Title: TBA
+
+8:30-8:50
+[Julius Lukeš] ([Institute of Parasitology, Czech Academy of Science & University of South Bohemia](https://www.paru.cas.cz/en/))
+Title: TBA
+
+9:00-9:10
+[Ben Larson] ([University of California, San Francisco & Berkeley])
+Title: Regulation of form in multicellular choanoflagellates and the evolutionary cell biology of morphogenesis
+
+9:15-945
+[Alexandra Worden] ([GEOMAR | Helmholtz Centre for Ocean Research Kiel](https://www.geomar.de/en/))
+Title: Connecting individual eukaryotic cells with partners in the sea
+
+9:45-10:00
+[Yana Eglit] ([Dalhousie University](https://www.dal.ca))
+Title: Meteora, “Protist X”, and what we can learn from culturing the diversity of eukaryotes
