@@ -5,13 +5,18 @@
 
 [[main]]
   name = "Home"
-  url = "#demo"
+  url = "#intro"
   weight = 10
 
 [[main]]
   name = "Speakers"
   url = "#people"
   weight = 20
+
+[[main]]
+  name = "Program"
+  url = "#program"
+  weight = 30
 
 #[[main]]
 #  name = "Projects"
