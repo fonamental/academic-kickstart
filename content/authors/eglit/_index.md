@@ -12,8 +12,6 @@ superuser: false
 # Role/position
 role: PhD Candidate
 
-Dalhousie
-
 # Organizations/Affiliations
 organizations:
 - name: Dalhousie University

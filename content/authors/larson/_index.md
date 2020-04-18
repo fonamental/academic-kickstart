@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoc
+role: University of California, San Francisco & Berkeley
 
 # Organizations/Affiliations
-organizations:
-- name: University of California, San Francisco & Berkeley
-  url: ""
+# organizations:
+# - name: University of California, San Francisco & Berkeley
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I use microscopes, math, and computation to understand how cells control shape and movement to thrive in various environments. During my undergraduate degree in physics at Reed College, I became increasingly interested in biology and biophysics. After a stint at the National Institutes of Health in a cell biology lab doing a lot of computational image analysis, I joined the Biophysics PhD Program at UC Berkeley. There, I worked in Nicole King's lab on the evolution of multicellular morphogenesis by studying the cellular and biophysical mechanisms regulating 3D colony shape in choanoflagellates. In my postdoc in Wallace Marshall's lab at UCSF, I am investigating the biophysical and computational principles by which cells control complex behaviors through studying locomotion and sensorimotor activity in ciliates and amoebae.
