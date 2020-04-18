@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Plastid evolution in deep-branching apicomplexans.
+bio: I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
 
 # interests:
 # - Artificial Intelligence
@@ -69,7 +69,8 @@ user_groups:
 - Speakers
 ---
 
-Blurb: I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
+I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
 
-Abstract:
+**Plastid evolution in deep-branching apicomplexans.**
+
 Apicomplexans are a group of obligate animal parasites that include devastating pathogens such as Plasmodium, the causative agent of malaria. One of the most fascinating traits of these parasites is that they retain a relic, non-photosynthetic plastid (known as the apicoplast). This organelle sheds light on the evolutionary history of the apicomplexans, but also serves as an important tool to explore principles of organelle dependency and genome reduction, more generally. Here, we carried out genome and transcriptome sequencing of three under-studied apicomplexan species, Aggregata octopiana, Merocystis kathae and Margolisiella islandica. We use multi-gene phylogenomics to place these taxa into a novel deep-branching apicomplexan clade and sequence their apicoplast genomes. We find that plastids in deep-branching apicomplexans are highly reduced, encode only a handful of proteins, and contain some of the most AT-rich genomes ever found. The plastid of Margolisiella islandica is particularly remarkable as it is the smallest apicoplast genome sequenced till date and has lost all plastid-encoded RNA polymerase genes.
