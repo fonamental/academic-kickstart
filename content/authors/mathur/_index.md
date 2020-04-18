@@ -69,7 +69,7 @@ user_groups:
 - Speakers
 ---
 
-I'm a PhD student in [Patrick Keeling's lab]. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
+> I'm a PhD student in [Patrick Keeling's lab]. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
 
 {{% alert note %}}
 **Plastid evolution in deep-branching apicomplexans.**
