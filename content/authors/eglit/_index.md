@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Dalhousie University
 
 # Organizations/Affiliations
-organizations:
-- name: Dalhousie University
-  url: ""
+# organizations:
+# - name: Dalhousie University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD Candidate at the lab of Alastair Simpson; we study the diversity and evolution of free-living, heterotrophic protists from a variety of environments, currently focusing on marine benthos and high salt environments.

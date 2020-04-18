@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student
+role: University of British Columbia
 
 # Organizations/Affiliations
-organizations:
-- name: University of British Columbia
-  url: ""
+# organizations:
+# - name: University of British Columbia
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
@@ -45,12 +45,12 @@ bio: I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of p
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/@varsh_mathur
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=LEVTYlYAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

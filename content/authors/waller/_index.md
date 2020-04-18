@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: University of Cambridge
 
 # Organizations/Affiliations
-organizations:
-- name: University of Cambridge
-  url: ""
+# organizations:
+#- name: University of Cambridge
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Completed a PhD the University of Melbourne with postdocs at both Melbourne and the University of British Columbia. Returned to a faculty position at the University of Melbourne (2005) and then relocated his lab to the University of Cambridge in 2014. His lab is studying key evolutionary processes and transitions that have led to cell diversity, with particular focus on adaptations for symbiotic interactions.
@@ -47,12 +47,12 @@ bio: Completed a PhD the University of Melbourne with postdocs at both Melbourne
 #- icon: envelope
 #  icon_pack: fas
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-#- icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RossWaller3
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=QGHVwTEAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen

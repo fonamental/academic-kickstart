@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: University of California, Santa Barbara
 
 # Organizations/Affiliations
-organizations:
-- name: University of California, Santa Barbara
-  url: ""
+# organizations:
+# - name: University of California, Santa Barbara
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Susannah received her bachelor's degree in Mathematics from Yale University in 1995 and her Ph.D. in Biology at Harvard University in 2002. After completing a one-year NASA Astrobiology Post-Doctoral Fellowship at UCLA, she moved to the University of California at Santa Barbara, where she is Professor and Vice Chair in the Department of Earth Science. She studies the fossil record of early eukaryotes and early animals, and has worked on problems relating to the evolution of skeletal biomineralization, the influence of snowball Earth glaciations on the biosphere, and the taxonomy and ecology of ancient protistan microfossils.
@@ -49,9 +49,9 @@ bio: Susannah received her bachelor's degree in Mathematics from Yale University
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=O_Fcmwy21PIC
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
