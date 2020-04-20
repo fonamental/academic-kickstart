@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Rosentiel School of Marine and Atmospheric Science - University of Miami
+role: Rosentiel School of Marine and Atmospheric Science at the University of Miami
 
 # Organizations/Affiliations
 #organizations:
