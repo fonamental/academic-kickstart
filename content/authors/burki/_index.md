@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Patrick Keeling
+title: Fabien Burki
 
 # Username (this should match the folder name)
 authors:
-- keeling
+- burki
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: University of British Columbia
+role: Uppsala University
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: University of British Columbia
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Patrick Keeling is a Canadian evolutionary microbiologist and Professor in Botany at the University of British Columbia. He grew up in rural Ontario, and completed a Bachelors at the University of Western Ontario in Genetics and a PhD in Biochemistry at Dalhousie, followed by postdoctoral research at the University of Melbourne and Indiana University. He began his current position as a professor at UBC in Vancouver in 1999.
+bio: Fabien Burki is an Associate Professor at Uppsala University, Sweden, where he established his research group in 2016 in the Systematic Biology program (Dept. of Organismal Biology). Prior to his move to Sweden, he completed his PhD at the University of Geneva (Switzerland) and a postdoc fellow at the University of British Columbia (Canada). His research focuses on the study of unicellular eukaryotes (aka the protists) from a genomic perspective, in order to understand the great diversity of life.
 
 # interests:
 # - Artificial Intelligence
@@ -47,10 +47,10 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/pjkeelinglab
+  link: https://twitter.com/fburki
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=bBOB74IAAAAJ&hl
+  link: https://scholar.google.com/citations?hl=en&user=Uhvos9EAAAAJ
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -69,4 +69,7 @@ user_groups:
 - Organizers
 ---
 
-> Patrick Keeling is a Canadian evolutionary microbiologist and Professor in Botany at the University of British Columbia. He grew up in rural Ontario, and completed a Bachelors at the University of Western Ontario in Genetics and a PhD in Biochemistry at Dalhousie, followed by postdoctoral research at the University of Melbourne and Indiana University. He began his current position as a professor at UBC in Vancouver in 1999.
+> Fabien Burki is an Associate Professor at Uppsala University, Sweden, where he established his research group in 2016 in the Systematic Biology program (Dept. of Organismal Biology). Prior to his move to Sweden, he completed his PhD at the University of Geneva (Switzerland) and a postdoc fellow at the University of British Columbia (Canada). His research focuses on the study of unicellular eukaryotes (aka the protists) from a genomic perspective, in order to understand the great diversity of life.
+
+# {{% alert note %}}
+# {{% /alert %}}
