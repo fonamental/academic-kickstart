@@ -81,7 +81,7 @@ Title: Plastid evolution in deep-branching apicomplexans
 ### Wednesday May 6
 
 - 8:00AM-8:20AM
-[Eva Nowack] ([Heinrich Heine University Düsseldorf](https://www.uni-duesseldorf.de/home/en/home.html))
+[Eva Nowack](https://fonamental.github.io/author/eva-nowack/) ([Heinrich Heine University Düsseldorf](https://www.uni-duesseldorf.de/home/en/home.html))
 Title: TBA
 
 - 8:30-8:50

@@ -69,8 +69,6 @@ user_groups:
 - Speakers
 ---
 
->I am a microbial ecologist who applies evolutionary biological approaches to understanding diversity and interactions in the ocean. My lab also develops and implements new technologies for targeting wild aquatic microbial populations and individual cells – for both genomic and activity measurements. Of course, since many marine microbes are not yet in culture we have also developed a couple key models in the lab – of environmentally relevant marine algae – so that we can develop cell biological understanding of how these organisms acclimate and adapt to changing environmental conditions on short and long timescales.
-
 {{% alert note %}}
 **TBA**
 {{% /alert %}}
