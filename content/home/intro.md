@@ -64,6 +64,6 @@ Lastly, the ESOP idea was to stage a short meeting that mitigates as many of the
 
 Thanks and take care,
 
-Patrick Keeling (University of British Columbia)
-Javier del Campo (University of Miami)
-Fabien Burki  (Uppsala University)
+- [Patrick Keeling](http://protist.online/author/patrick-keeling/) (University of British Columbia)
+- [Javier del Campo](http://protist.online/author/javier-del-campo/) (University of Miami)
+- [Fabien Burki](http://protist.online/author/fabien-burki/) (Uppsala University)
