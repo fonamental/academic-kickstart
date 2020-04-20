@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assitant Professor
+role: ""
 
 # Organizations/Affiliations
 #organizations:
@@ -18,7 +18,7 @@ role: Assitant Professor
 #  url: "https://www.rsmas.miami.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
+bio: ""
 
 #interests:
 #- Microbial Ecology
@@ -79,9 +79,6 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
+user_groups: ""
 
 ---
-
-# {{% alert note %}}
-# {{% /alert %}}

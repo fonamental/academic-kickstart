@@ -70,6 +70,3 @@ user_groups:
 ---
 
 > Fabien Burki is an Associate Professor at Uppsala University, Sweden, where he established his research group in 2016 in the Systematic Biology program (Dept. of Organismal Biology). Prior to his move to Sweden, he completed his PhD at the University of Geneva (Switzerland) and a postdoc fellow at the University of British Columbia (Canada). His research focuses on the study of unicellular eukaryotes (aka the protists) from a genomic perspective, in order to understand the great diversity of life.
-
-# {{% alert note %}}
-# {{% /alert %}}
