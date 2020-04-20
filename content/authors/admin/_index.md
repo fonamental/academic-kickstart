@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Javier del Campo
+name: Fonamental
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Rosentiel School of Marine and Atmospheric Science - University of Miami
+role: Assitant Professor
 
 # Organizations/Affiliations
 #organizations:
@@ -41,16 +41,16 @@ bio: My research aims at understanding the global diversity and distribution of 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
+#social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:jdelcampo@rsmas.miami.edu"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/fonamental
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=Mty5iQYAAAAJ&hl=en
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/fonamental
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=Mty5iQYAAAAJ&hl=en
 #- icon: orcid
 #  icon_pack: ai
 #  link: https://orcid.org/0000-0002-5292-1421
@@ -82,8 +82,6 @@ email: ""
 user_groups:
 
 ---
-
->My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa. Through the use of novel culturing and isolation approaches and single-cell genomics, I also study uncultured species to discover new biological processes and their ecological implications. My experience generating and analyzing next-generation sequencing data allows me to use genome-scale data to address a multitude of questions on the diversity and distribution of microbes across natural environments. I am currently investigating microbial community ecology in marine animal-associated environments using cutting edge sequencing technologies and computational biology. My knowledge of eukaryote diversity is proving to be a vital resource as I develop the infrastructure necessary to incorporate microeukaryotes into microbial ecology studies in a phylogeny informed manner.
 
 # {{% alert note %}}
 # {{% /alert %}}
