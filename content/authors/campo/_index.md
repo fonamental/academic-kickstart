@@ -1,6 +1,6 @@
 ---
 # Display name
-title: James del Campo
+title: Javier del Campo
 
 # Username (this should match the folder name)
 authors:
