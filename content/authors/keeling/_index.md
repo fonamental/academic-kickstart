@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Varsha Mathur
+title: Patrick Keeling
 
 # Username (this should match the folder name)
 authors:
-- mathur
+- keeling
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,7 +18,7 @@ role: University of British Columbia
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a PhD student in Patrick Keeling's lab. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
+bio: Patrick Keeling is a Canadian evolutionary microbiologist and Professor in Botany at the University of British Columbia. He grew up in rural Ontario, and completed a Bachelors at the University of Western Ontario in Genetics and a PhD in Biochemistry at Dalhousie, followed by postdoctoral research at the University of Melbourne and Indiana University. He began his current position as a professor at UBC in Vancouver in 1999.
 
 # interests:
 # - Artificial Intelligence
@@ -69,10 +69,7 @@ user_groups:
 - Speakers
 ---
 
-> I'm a PhD student in [Patrick Keeling's lab]. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
+> Patrick Keeling is a Canadian evolutionary microbiologist and Professor in Botany at the University of British Columbia. He grew up in rural Ontario, and completed a Bachelors at the University of Western Ontario in Genetics and a PhD in Biochemistry at Dalhousie, followed by postdoctoral research at the University of Melbourne and Indiana University. He began his current position as a professor at UBC in Vancouver in 1999..
 
-{{% alert note %}}
-**Plastid evolution in deep-branching apicomplexans**
-
-Apicomplexans are a group of obligate animal parasites that include devastating pathogens such as Plasmodium, the causative agent of malaria. One of the most fascinating traits of these parasites is that they retain a relic, non-photosynthetic plastid (known as the apicoplast). This organelle sheds light on the evolutionary history of the apicomplexans, but also serves as an important tool to explore principles of organelle dependency and genome reduction, more generally. Here, we carried out genome and transcriptome sequencing of three under-studied apicomplexan species, *Aggregata octopiana*, *Merocystis kathae* and *Margolisiella islandica*. We use multi-gene phylogenomics to place these taxa into a novel deep-branching apicomplexan clade and sequence their apicoplast genomes. We find that plastids in deep-branching apicomplexans are highly reduced, encode only a handful of proteins, and contain some of the most AT-rich genomes ever found. The plastid of *Margolisiella islandica* is particularly remarkable as it is the smallest apicoplast genome sequenced till date and has lost all plastid-encoded RNA polymerase genes.
-{{% /alert %}}
+# {{% alert note %}}
+# {{% /alert %}}

@@ -59,7 +59,7 @@ Welcome from the meeting organizers - and a challenge to future meeting organize
 
 - 8:15-8:35
 [Iñaki Ruiz-Trillo] ([Institut de Biologia Evolutiva](https://www.ibe.upf-csic.es) & [Universitat de Barcelona](https://www.ub.edu/web/ub/en/))
-Title: TBA
+Title: The origin of multicellular animals from their perspective of their unicellular relatives
 
 - 8:45-9:05
 [Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk))
@@ -86,7 +86,7 @@ Title: TBA
 
 - 8:30-8:50
 [Julius Lukeš] ([Institute of Parasitology, Czech Academy of Science & University of South Bohemia](https://www.paru.cas.cz/en/))
-Title: TBA
+Title: A comprehensive view of the euglenozoan mitochondrion
 
 - 9:00-9:10
 [Ben Larson](https://fonamental.github.io/author/ben-larson/) ([University of California, San Francisco](https://www.ucsf.edu) & [Berkeley](https://www.berkeley.edu))
