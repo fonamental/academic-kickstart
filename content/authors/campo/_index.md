@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Uppsala University
+role: University of Miami
 
 # Organizations/Affiliations
 # organizations:
@@ -18,7 +18,7 @@ role: Uppsala University
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Fabien Burki is an Associate Professor at Uppsala University, Sweden, where he established his research group in 2016 in the Systematic Biology program (Dept. of Organismal Biology). Prior to his move to Sweden, he completed his PhD at the University of Geneva (Switzerland) and a postdoc fellow at the University of British Columbia (Canada). His research focuses on the study of unicellular eukaryotes (aka the protists) from a genomic perspective, in order to understand the great diversity of life.
+bio: My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa.
 
 # interests:
 # - Artificial Intelligence
@@ -47,10 +47,10 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/fburki
+  link: https://twitter.com/fonamental
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=Uhvos9EAAAAJ
+  link: https://scholar.google.com/citations?user=Mty5iQYAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -69,4 +69,4 @@ user_groups:
 - Organizers
 ---
 
-> Fabien Burki is an Associate Professor at Uppsala University, Sweden, where he established his research group in 2016 in the Systematic Biology program (Dept. of Organismal Biology). Prior to his move to Sweden, he completed his PhD at the University of Geneva (Switzerland) and a postdoc fellow at the University of British Columbia (Canada). His research focuses on the study of unicellular eukaryotes (aka the protists) from a genomic perspective, in order to understand the great diversity of life.
+> My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa. Through the use of novel culturing and isolation approaches and single-cell genomics, I also study uncultured species to discover new biological processes and their ecological implications. My experience generating and analyzing next-generation sequencing data allows me to use genome-scale data to address a multitude of questions on the diversity and distribution of microbes across natural environments. I am currently investigating microbial community ecology in marine animal-associated environments using cutting edge sequencing technologies and computational biology. My knowledge of eukaryote diversity is proving to be a vital resource as I develop the infrastructure necessary to incorporate microeukaryotes into microbial ecology studies in a phylogeny informed manner.
