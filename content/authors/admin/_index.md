@@ -41,7 +41,7 @@ bio: My research aims at understanding the global diversity and distribution of 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
 #  icon_pack: fas
 #  link: "mailto:jdelcampo@rsmas.miami.edu"  # For a direct email link, use "mailto:test@example.org".
