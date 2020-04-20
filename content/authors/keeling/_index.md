@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Speakers
+- Organizers
 ---
 
 > Patrick Keeling is a Canadian evolutionary microbiologist and Professor in Botany at the University of British Columbia. He grew up in rural Ontario, and completed a Bachelors at the University of Western Ontario in Genetics and a PhD in Biochemistry at Dalhousie, followed by postdoctoral research at the University of Melbourne and Indiana University. He began his current position as a professor at UBC in Vancouver in 1999..
