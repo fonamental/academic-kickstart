@@ -4,7 +4,7 @@ name: Javier del Campo
 
 # Username (this should match the folder name)
 authors:
-- admin
+- delcampo
 
 # Is this the primary user of the site?
 superuser: true
@@ -80,7 +80,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-
+- Organizers
 ---
 
 >My research aims at understanding the global diversity and distribution of eukaryotic and prokaryotic microbes employing curated phylogenetic frameworks focusing on novel environmental taxa. Through the use of novel culturing and isolation approaches and single-cell genomics, I also study uncultured species to discover new biological processes and their ecological implications. My experience generating and analyzing next-generation sequencing data allows me to use genome-scale data to address a multitude of questions on the diversity and distribution of microbes across natural environments. I am currently investigating microbial community ecology in marine animal-associated environments using cutting edge sequencing technologies and computational biology. My knowledge of eukaryote diversity is proving to be a vital resource as I develop the infrastructure necessary to incorporate microeukaryotes into microbial ecology studies in a phylogeny informed manner.
