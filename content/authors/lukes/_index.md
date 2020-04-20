@@ -69,8 +69,6 @@ user_groups:
 - Speakers
 ---
 
-> I'm a PhD student in [Patrick Keeling's lab]. I'm studying the evolution of parasitism in apicomplexans using single-cell transcriptomics.
-
 {{% alert note %}}
 **A comprehensive view of the euglenozoan mitochondrion**
 
