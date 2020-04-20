@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Alexandra Worden
+title: Eva Nowack
 
 # Username (this should match the folder name)
 authors:
-- worden
+- nowack
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Monterey Bay Aquarium Research Institute & GEOMAR Helmholtz Centre for Ocean Research Kiel
+role: Heinrich Heine University Düsseldorf
 
 # Organizations/Affiliations
 # organizations:
@@ -50,7 +50,7 @@ social:
 #  link: https://twitter.com/varsh_mathur
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=i0oMjUIAAAAJ
+  link: https://scholar.google.com/citations?user=kEUMwVAAAAAJ&hl=en
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/gcushen
@@ -72,7 +72,5 @@ user_groups:
 >I am a microbial ecologist who applies evolutionary biological approaches to understanding diversity and interactions in the ocean. My lab also develops and implements new technologies for targeting wild aquatic microbial populations and individual cells – for both genomic and activity measurements. Of course, since many marine microbes are not yet in culture we have also developed a couple key models in the lab – of environmentally relevant marine algae – so that we can develop cell biological understanding of how these organisms acclimate and adapt to changing environmental conditions on short and long timescales.
 
 {{% alert note %}}
-**Connecting individual eukaryotic cells with partners in the sea**
-
-We all know by now that protists are incredibly diverse. But what does this mean in terms of metabolisms and interactions in the sea? This is a difficult question to answer because it is difficult to capture the three dimensional world of a protist at a visualization scale that addresses either of these topics. We employ stable isotope probing and single-eukaryotic-cell sorting to understand who is interacting with whom and the nature of the interaction. These approaches are uncovering the microbiomes of protists and a suite of interactions with associated shifts in metabolism that are not yet represented in typical food web models. Here, we will discuss new discoveries and methodologies for elucidating the mechanistic underpinnings of marine microbial interactions.
+**TBA**
 {{% /alert %}}

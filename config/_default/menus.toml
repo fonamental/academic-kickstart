@@ -10,12 +10,17 @@
 
 [[main]]
   name = "Speakers"
-  url = "#people"
+  url = "#speakers"
   weight = 20
 
 [[main]]
   name = "Program"
   url = "#program"
+  weight = 30
+
+[[main]]
+  name = "Organizers"
+  url = "#organizers"
   weight = 30
 
 #[[main]]
