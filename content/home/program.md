@@ -62,31 +62,40 @@ subtitle = ""
 *Title:* **The origin of multicellular animals from their perspective of their unicellular relatives**
 
 - 8:45 - 9:05.
-[Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk)).  *Title:* **A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome**
+[Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk)).  
+*Title:* **A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome**
 
 - 9:15 - 9:25.
-[Raúl González-Pech](https://fonamental.github.io/author/raul-gonzalez-pech/) ([University of South Florida](https://www.usf.edu) & [University of Queensland](https://www.uq.edu.au)). *Title:* **Can symbiosis drive genome evolution of Symbiodiniaceae?**
+[Raúl González-Pech](https://fonamental.github.io/author/raul-gonzalez-pech/) ([University of South Florida](https://www.usf.edu) & [University of Queensland](https://www.uq.edu.au)).  
+*Title:* **Can symbiosis drive genome evolution of Symbiodiniaceae?**
 
 - 9:30 - 9:50.
-[Susannah Porter](https://fonamental.github.io/author/susannah-porter/) ([University of California, Santa Barbara](https://www.ucsb.edu)). *Title:* **Insights into eukaryogenesis from the fossil record**
+[Susannah Porter](https://fonamental.github.io/author/susannah-porter/) ([University of California, Santa Barbara](https://www.ucsb.edu)).  
+*Title:* **Insights into eukaryogenesis from the fossil record**
 
 - 10:00 - 10:15.
-[Varsha Mathur](https://fonamental.github.io/author/varsha-mathur/) ([University of British Columbia](https://www.ubc.ca)). *Title:* **Plastid evolution in deep-branching apicomplexans**
+[Varsha Mathur](https://fonamental.github.io/author/varsha-mathur/) ([University of British Columbia](https://www.ubc.ca)).  
+*Title:* **Plastid evolution in deep-branching apicomplexans**
 
 
 ### Wednesday May 6
 
 - 8:00 AM - 8:20 AM.
-[Eva Nowack](https://fonamental.github.io/author/eva-nowack/) ([Heinrich Heine University Düsseldorf](https://www.uni-duesseldorf.de/home/en/home.html)). *Title:* TBA
+[Eva Nowack](https://fonamental.github.io/author/eva-nowack/) ([Heinrich Heine University Düsseldorf](https://www.uni-duesseldorf.de/home/en/home.html)).  
+*Title:* TBA
 
 - 8:30 - 8:50.
-[Julius Lukeš](https://fonamental.github.io/author/julius-lukes/) ([Institute of Parasitology, Czech Academy of Science & University of South Bohemia](https://www.paru.cas.cz/en/)). *Title:* **A comprehensive view of the euglenozoan mitochondrion**
+[Julius Lukeš](https://fonamental.github.io/author/julius-lukes/) ([Institute of Parasitology, Czech Academy of Science & University of South Bohemia](https://www.paru.cas.cz/en/)).  
+*Title:* **A comprehensive view of the euglenozoan mitochondrion**
 
 - 9:00 - 9:10.
-[Ben Larson](https://fonamental.github.io/author/ben-larson/) ([University of California, San Francisco](https://www.ucsf.edu) & [Berkeley](https://www.berkeley.edu)). *Title:* **Regulation of form in multicellular choanoflagellates and the evolutionary cell biology of morphogenesis**
+[Ben Larson](https://fonamental.github.io/author/ben-larson/) ([University of California, San Francisco](https://www.ucsf.edu) & [Berkeley](https://www.berkeley.edu)).  
+*Title:* **Regulation of form in multicellular choanoflagellates and the evolutionary cell biology of morphogenesis**
 
 - 9:15 - 9:45.
-[Alexandra Worden](https://fonamental.github.io/author/alexandra-worden/) ([GEOMAR | Helmholtz Centre for Ocean Research Kiel](https://www.geomar.de/en/)). *Title:* **Connecting individual eukaryotic cells with partners in the sea**
+[Alexandra Worden](https://fonamental.github.io/author/alexandra-worden/) ([GEOMAR | Helmholtz Centre for Ocean Research Kiel](https://www.geomar.de/en/)).  
+*Title:* **Connecting individual eukaryotic cells with partners in the sea**
 
 - 9:45 - 10:00
-[Yana Eglit](https://fonamental.github.io/author/yana-eglit/) ([Dalhousie University](https://www.dal.ca)). *Title:* **Meteora, “Protist X”, and what we can learn from culturing the diversity of eukaryotes**
+[Yana Eglit](https://fonamental.github.io/author/yana-eglit/) ([Dalhousie University](https://www.dal.ca)).  
+*Title:* **Meteora, “Protist X”, and what we can learn from culturing the diversity of eukaryotes**
