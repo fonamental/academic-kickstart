@@ -22,7 +22,7 @@ subtitle = ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "RoyalBlue"
+   color = "Navy"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -62,7 +62,8 @@ Welcome from the meeting organizers - and a challenge to future meeting organize
 
 - 8:45 - 9:05
 
-[Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk)). **Title:** A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome
+[Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk)).
+#### **Title:** A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome
 
 - 9:15 - 9:25
 [Raúl González-Pech](https://fonamental.github.io/author/raul-gonzalez-pech/) ([University of South Florida](https://www.usf.edu) & [University of Queensland](https://www.uq.edu.au)). **Title:** Can symbiosis drive genome evolution of Symbiodiniaceae?
