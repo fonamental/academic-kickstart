@@ -54,10 +54,10 @@ subtitle = ""
 
 ### Tuesday May 5
 
-- 8:00 AM - 8:15 AM PDT / 11:00 AM - 11:15 AM EDT / 4:00 PM -4:15 PM GMT+1
+- 8:00 AM - 8:15 AM PDT / 11:00 AM - 11:15 AM EDT / 4:00 PM -4:15 PM GMT+1.
 **Welcome from the meeting organizers - and a challenge to future meeting organizers.**
 
-- 8:15 - 8:35.
+- 8:15 - 8:35 AM PDT / 11:15 AM - 11:35 AM EDT / 4:15 PM -4:35 PM GMT+1.  
 [Iñaki Ruiz-Trillo](https://fonamental.github.io/author/inaki-ruiz-trillo/) ([Institut de Biologia Evolutiva](https://www.ibe.upf-csic.es)).  
 *Title:* **The origin of multicellular animals from their perspective of their unicellular relatives**
 
