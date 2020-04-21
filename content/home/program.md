@@ -36,7 +36,7 @@ subtitle = ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -59,11 +59,11 @@ Welcome from the meeting organizers - and a challenge to future meeting organize
 
 - 8:15 - 8:35
 [Iñaki Ruiz-Trillo](https://fonamental.github.io/author/inaki-ruiz-trillo/) ([Institut de Biologia Evolutiva](https://www.ibe.upf-csic.es)).
-**Title: The origin of multicellular animals from their perspective of their unicellular relatives**
+*Title:* **The origin of multicellular animals from their perspective of their unicellular relatives**
 
 - 8:45 - 9:05
 [Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk)).
-#### **Title:** A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome
+**Title:** A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome
 
 - 9:15 - 9:25
 [Raúl González-Pech](https://fonamental.github.io/author/raul-gonzalez-pech/) ([University of South Florida](https://www.usf.edu) & [University of Queensland](https://www.uq.edu.au)). **Title:** Can symbiosis drive genome evolution of Symbiodiniaceae?
