@@ -54,7 +54,7 @@ subtitle = ""
 
 ### Tuesday May 5
 
-- 8:00 AM - 8:15 AM.
+- 8:00 AM - 8:15 AM PDT / 11:00 AM - 11:15 AM EDT / 4:00 PM -4:15 PM GMT+1
 **Welcome from the meeting organizers - and a challenge to future meeting organizers.**
 
 - 8:15 - 8:35.

@@ -54,13 +54,13 @@ subtitle = ""
 
 The cancellation of scientific meetings around the world this year has created a vacuum in our field in the lost opportunities to interact with our friends and colleagues. However, it is also arguable that travel to meetings was becoming both an excessive burden on our time and on the planet. Like it or not, the coronavirus has also forced most of us to quickly become proficient at remote meeting technology, so the global crisis is also an opportunity for us to reevaluate some aspects of scientific interactions.
 
-To fill this gap in a small way, and also publicly experiment with virtual interactions, we are somewhat nervously announcing ESOP - the Electronic Symposium on Protistology.
+To fill this gap in a small way, and also publicly experiment with virtual interactions, we are announcing ESOP - the Electronic Symposium on Protistology.
 
 **The pilot ESOP meeting will take place as two relatively short live sessions, May 5-6 from 8 AM-10 AM Pacific Daylight Time (11 AM-1 PM Eastern Daylight Time / 4 PM-6 PM GMT+1). We have a diverse lineup of 10 great speakers representing many aspects of protistology, listed below.**
 
 The meeting platform will be Zoom. We are exploring ways to simultaneously live stream and record, but through Zoom participants will be able to take part in question and discussion periods following each talk. Technical instructions for participants are being prepared.
 
-Our aim was to act quickly, since our friends and colleagues are stuck in isolation right now. We are creating a web site which will be housed here at [protist.online](protist.online) and will be updated regularly. Check back for a technical instruction sheet for participants that we are developing.   
+Our aim was to act quickly, since our friends and colleagues are stuck in isolation right now. This website [protist.online](protist.online), will be updated regularly, so check back for more news including a technical instruction sheet for participants that we are developing.   
 
 Lastly, the ESOP idea was to stage a short meeting that mitigates as many of the drawbacks to lack of travel as possible, and even uses a few of the advantages (e.g. we are not tied to an “all day” schedule). But ultimately we hope this is a pilot project and that other groups will improve on the basic outline to launch their own mini-meetings in the near future (especially since we cannot stage a live event that caters to all time zones). We also hope by forcing us to try virtual meetings it might open the door to thinking about incorporating some aspect of this into future in-person meetings too (e.g. allowing for virtual registration access to some parts of regular meetings in the future).
 
