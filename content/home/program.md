@@ -58,7 +58,8 @@ subtitle = ""
 **Welcome from the meeting organizers - and a challenge to future meeting organizers.**
 
 - 8:15 - 8:35.
-[Iñaki Ruiz-Trillo](https://fonamental.github.io/author/inaki-ruiz-trillo/) ([Institut de Biologia Evolutiva](https://www.ibe.upf-csic.es)).  *Title:* **The origin of multicellular animals from their perspective of their unicellular relatives**
+[Iñaki Ruiz-Trillo](https://fonamental.github.io/author/inaki-ruiz-trillo/) ([Institut de Biologia Evolutiva](https://www.ibe.upf-csic.es)).  
+*Title:* **The origin of multicellular animals from their perspective of their unicellular relatives**
 
 - 8:45 - 9:05.
 [Ross Waller](https://fonamental.github.io/author/ross-waller/) ([University of Cambridge](https://www.cam.ac.uk)).  *Title:* **A subcellular atlas of Toxoplasma reveals the functional and evolutionary context of the proteome**
