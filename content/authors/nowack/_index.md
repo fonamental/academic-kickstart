@@ -18,7 +18,7 @@ role: Heinrich Heine University Düsseldorf
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I am an evolutionary cell biologist at Heinrich Heine University Düsseldorf, Germany. My current research interests revolve around the evolution and biology of microbial endosymbioses and include in particular the influence of endosymbiosis on genome evolution in host and endosymbiont, horizontal and endosymbiotic gene transfers, molecular mechanisms underlying the interaction of endosymbiotic partners, and the transformation of a bacterial endosymbiont into a genetically integrated eukaryotic organelle."
 
 # interests:
 # - Artificial Intelligence
@@ -69,6 +69,10 @@ user_groups:
 - Speakers
 ---
 
+> I am an evolutionary cell biologist at Heinrich Heine University Düsseldorf, Germany. My current research interests revolve around the evolution and biology of microbial endosymbioses and include in particular the influence of endosymbiosis on genome evolution in host and endosymbiont, horizontal and endosymbiotic gene transfers, molecular mechanisms underlying the interaction of endosymbiotic partners, and the transformation of a bacterial endosymbiont into a genetically integrated eukaryotic organelle.
+
 {{% alert note %}}
-**TBA**
+**The molecular toolkit to enslave a bacterial endosymbiont**
+
+The acquisition of mitochondria and plastids majorly impacted origin and diversification of eukaryotic life. These evolutionary processes were initiated more than a billion years ago by the endosymbiotic uptake of bacterial endosymbionts. More recently acquired bacterial endosymbionts are found across the eukaryotic tree of life and provide their hosts with novel metabolic and bioenergetic capabilities. Over time, the genomes of vertically transmitted endosymbionts reduce. The gene repertoires of host and endosymbiont can become highly complementary indicating an intricate integration of biological processes between the partner organisms. Molecular mechanisms that mediate these interactions, however, are largely unknown. We use the amoeba *Paulinella chromatophora* (Cercozoa, Rhizaria) that contains nascent photosynthetic organelles of cyanobacterial origin and the trypanosomatid *Angomonas deanei* (Kinetoplastea, Excavata) that contains -proteobacterial endosymbionts as model systems to explore molecular mechanisms underlying host-symbiont interaction.
 {{% /alert %}}
