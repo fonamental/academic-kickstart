@@ -83,8 +83,8 @@ subtitle = ""
 ### Wednesday May 6
 
 8:00 AM - 8:20 AM PDT / 11:00 AM - 11:20 AM EDT / 4:00 PM -4:20 PM GMT+1.  
-[Eva Nowack](https://fonamental.github.io/author/eva-nowack/) ([Heinrich Heine University Düsseldorf](https://www.uni-duesseldorf.de/home/en/home.html)).  
-*Title:* **The molecular toolkit to enslave a bacterial endosymbiont**
+TBA.  
+*Title:* **TBA**
 
 8:30 AM - 8:50 AM PDT / 11:30 AM - 11:50 AM EDT / 4:30 PM -4:50 PM GMT+1.  
 [Julius Lukeš](https://fonamental.github.io/author/julius-lukes/) ([Institute of Parasitology, Czech Academy of Science & University of South Bohemia](https://www.paru.cas.cz/en/)).  

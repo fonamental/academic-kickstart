@@ -66,7 +66,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Speakers
+- Others
 ---
 
 > I am an evolutionary cell biologist at Heinrich Heine University Düsseldorf, Germany. My current research interests revolve around the evolution and biology of microbial endosymbioses and include in particular the influence of endosymbiosis on genome evolution in host and endosymbiont, horizontal and endosymbiotic gene transfers, molecular mechanisms underlying the interaction of endosymbiotic partners, and the transformation of a bacterial endosymbiont into a genetically integrated eukaryotic organelle.
