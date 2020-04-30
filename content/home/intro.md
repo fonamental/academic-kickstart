@@ -60,6 +60,10 @@ To fill this gap in a small way, and also publicly experiment with virtual inter
 
 {{% alert note %}}
 The meeting platform will be Zoom. We are exploring ways to simultaneously live stream and record, but through Zoom participants will be able to take part in question and discussion periods following each talk. Technical instructions for participants are available **[HERE](http://protist.online/pages/instructions)**
+
+**[REGISTER IN ADVANCE FOR THE MEETING](https://ubc.zoom.us/meeting/register/tJMtdOmgpzsiEtBznCt4N88M_pTQOdyvGtYh)**
+
+After registering, you will receive a confirmation email containing information about joining the meeting
 {{% /alert %}}
 
 Our aim was to act quickly, since our friends and colleagues are stuck in isolation right now. This website [protist.online](protist.online), will be updated regularly, so check back for more news including a technical instruction sheet for participants that we are developing.   
