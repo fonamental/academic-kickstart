@@ -50,11 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-## The Electronic Symposium on Protistology
+## Electronic Symposium on Protistology
 
 The cancellation of scientific meetings around the world this year has created a vacuum in our field in the lost opportunities to interact with our friends and colleagues. However, it is also arguable that travel to meetings was becoming both an excessive burden on our time and on the planet. Like it or not, the coronavirus has also forced most of us to quickly become proficient at remote meeting technology, so the global crisis is also an opportunity for us to reevaluate some aspects of scientific interactions.
 
-To fill this gap in a small way, and also publicly experiment with virtual interactions, we are announcing ESOP - the Electronic Symposium on Protistology.
+To fill this gap in a small way, and also publicly experiment with virtual interactions, we are announcing Protist.Online - Electronic Symposium on Protistology.
 
 **The pilot ESOP meeting will take place as two relatively short live sessions, May 5-6 from 8 AM-10 AM Pacific Daylight Time (11 AM-1 PM Eastern Daylight Time / 4 PM-6 PM GMT+1). We have a diverse lineup of 10 great speakers representing many aspects of protistology, listed below.**
 
