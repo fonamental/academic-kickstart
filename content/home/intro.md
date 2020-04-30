@@ -58,7 +58,9 @@ To fill this gap in a small way, and also publicly experiment with virtual inter
 
 **The pilot ESOP meeting will take place as two relatively short live sessions, May 5-6 from 8 AM-10 AM Pacific Daylight Time (11 AM-1 PM Eastern Daylight Time / 4 PM-6 PM GMT+1). We have a diverse lineup of 10 great speakers representing many aspects of protistology, listed below.**
 
-The meeting platform will be Zoom. We are exploring ways to simultaneously live stream and record, but through Zoom participants will be able to take part in question and discussion periods following each talk. Technical instructions for participants are being prepared.
+{{% alert note %}}
+The meeting platform will be Zoom. We are exploring ways to simultaneously live stream and record, but through Zoom participants will be able to take part in question and discussion periods following each talk. Technical instructions for participants are available **[HERE](http://protist.online/pages/instructions)**
+{{% alert note %}}
 
 Our aim was to act quickly, since our friends and colleagues are stuck in isolation right now. This website [protist.online](protist.online), will be updated regularly, so check back for more news including a technical instruction sheet for participants that we are developing.   
 
