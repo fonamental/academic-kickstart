@@ -20,7 +20,7 @@ header:
 2. **REGISTER**. Registration is mandatory (to help with security). After you register, the Zoom meeting link and meeting password will be sent to you via email after the organisers accept your registration. [Register here](https://ubc.zoom.us/meeting/register/tJMtdOmgpzsiEtBznCt4N88M_pTQOdyvGtYh), but please, keep reading the guidelines.
 
 3. *ENTER THE MEETING* by clicking on the Zoom link to launch Zoom and enter the meeting password. You will enter a “waiting room” until the organisers move you into the meeting. The waiting room will be available 30 minutes prior to the advertised meeting start time. Please enter the waiting room 10-15 minutes early if possible.
-4. **THE MEETING WILL ALSO BE LIVESTREAMED ON THE PROTIST.ONLINE YOUTUBE CHANNEL**. If you fail to enter the zoom meeting for some reason, you can watch the entire meeting live on the Protist.Online YouTube channel. However, you will not be able to ask questions from YouTube.
+4. **[THE MEETING WILL ALSO BE LIVESTREAMED ON THE PROTIST.ONLINE YOUTUBE CHANNEL](https://www.youtube.com/channel/UCb1s6xFrlqxSfwWBqz-FRAw/featured?view_as=subscriber)**. If you fail to enter the zoom meeting for some reason, you can watch the entire meeting live on the Protist.Online YouTube channel. However, you will not be able to ask questions from YouTube.
 
 
 ## During the meeting:

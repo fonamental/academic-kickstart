@@ -83,7 +83,7 @@ subtitle = ""
 ### Wednesday May 6
 
 8:00 AM - 8:20 AM PDT / 11:00 AM - 11:20 AM EDT / 4:00 PM -4:20 PM GMT+1.  
-[Purificación López-García]().([CNRS](http://www.cnrs.fr) & [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en))
+[Purificación López-García]().([CNRS](http://www.cnrs.fr) & [Université Paris-Saclay](https://www.universite-paris-saclay.fr/en)).  
 *Title:* **The protistan way to fungi**
 
 8:30 AM - 8:50 AM PDT / 11:30 AM - 11:50 AM EDT / 4:30 PM -4:50 PM GMT+1.  
